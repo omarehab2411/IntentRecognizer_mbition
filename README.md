@@ -6,6 +6,8 @@ This is a repo for the Intent Recogbizer project for Mbition coding challenge.
 * This projects Implements a Speech Intent Recognizer using C++.
 * The Intent Recognizer works by reading input phrase from the user then classify the input phrase according to the set of words in it.the classification is done through using    Map data structure where for every maped word a key value pair is assigned which reveal the inent behind those words.
 * After the Phrase is classified the Intent is formed and this is by checking if that the user phrase is successfully classified,if it is then a string is formed with the intent.
+
+![alt text](https://github.com/omarehab2411/IntentRecognizer_mbition/blob/main/IMG.PNG?raw=true)
  
 
 ## Dependencies for Running Locally
