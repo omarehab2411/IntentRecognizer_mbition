@@ -10,4 +10,4 @@ project(IntentRecognizer)
 
 include_directories(include)
 
-add_executable(IntentRecognizer src/main.cpp)
+add_executable(IntentRecognizer main.cpp)
